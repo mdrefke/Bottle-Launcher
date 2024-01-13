@@ -1,5 +1,4 @@
 %% Bottle Rocket Launcher
-% Eugenia Kritsuk, Ryan Real, Madeleine Drefke
 
 % This is a script that finds the trajectory of a bottle after launch. 
 % For the sake of simplity, we assumed that the force  of thrust would 
